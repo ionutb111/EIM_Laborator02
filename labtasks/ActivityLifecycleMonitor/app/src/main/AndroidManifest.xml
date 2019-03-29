@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ro.pub.systems.eim.lab02.activitylifecyclemonitor">
+    package="ro.pub.systems.eim.lab02.activitylifecyclemonitor"
+    >
+
 
     <application
         android:allowBackup="true"
